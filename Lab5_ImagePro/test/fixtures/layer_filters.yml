@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  layer: one
+  filter: one
+  intensity: 1.5
+
+two:
+  layer: two
+  filter: two
+  intensity: 1.5
